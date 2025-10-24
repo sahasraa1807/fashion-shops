@@ -1,0 +1,10 @@
+:root{
+  --pink1:#ffb6c1;
+  --pink2:#ff69b4;
+  --text:#4a1133;
+  --bg:#fff0f6;
+}
+*{ box-sizing:border-box; }
+body{ margin:0; background: linear-gradient(180deg,var(--bg),#fff); color:var(--text); font-family:Poppins, sans-serif; }
+a{ text-decoration:none; }
+button{ font-family:inherit; }
